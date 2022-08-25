@@ -1,29 +1,14 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Britney Blodget">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col12178</md:content-id>
-  <md:title>Phase Three Testing</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>821e2320-8b04-41b7-a613-b7bfaab99446</md:uuid>
-<md:slug>phase-three-testing</md:slug>
-</metadata>
-
+    <md:content-id>col12178</md:content-id>
+    <md:title>Phase Three Testing</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>821e2320-8b04-41b7-a613-b7bfaab99446</md:uuid>
+    <md:slug>phase-three-testing</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m63960"/>
-        
-      
-    
+    <col:module document="m63960"/>
   </col:content>
 </col:collection>
